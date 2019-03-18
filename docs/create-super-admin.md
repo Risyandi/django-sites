@@ -5,4 +5,4 @@ noted : If you have any problem as like this
 ![create super user](./images/create-super-user.png)
 You should run this command 
 `python manage.py migrate`
-![migrate super user](./images/create-super-admin.png)
+![migrate super user](./images/create-superadmin.png)
