@@ -8,6 +8,6 @@ Django is a high-level Python Web framework that encourages rapid development an
 3. Pip version 9.0.1 upto highest
 
 # Documentations
-For detail documentations you will be check on this link [documentations](./docs/installation.md)
+For detail documentations you will be check on this link [documentations](./docs/installation.md).
 
 
