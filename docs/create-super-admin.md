@@ -7,4 +7,5 @@ for the create super admin you can type this command:
 You should run this command  
 `python manage.py migrate`  
 
-![migrate super user](./images/create-superadmin.png)
+![migrate super user](./images/create-superadmin.png)  
+for this example users will be created with username and password is `admin`
